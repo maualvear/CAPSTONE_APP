@@ -1,0 +1,22 @@
+<RCC>
+  <qresource>
+    <file>icons/casa.png</file>
+    <file>icons/excel.png</file>
+    <file>icons/grupo.png</file>
+    <file>icons/lista.png</file>
+    <file>icons/menu.png</file>
+    <file>icons/pdf.png</file>
+    <file>icons/salud.png</file>
+    <file>icons/search.png</file>
+  </qresource>
+  <qresource prefix="iconos">
+    <file>icons/casa.png</file>
+    <file>icons/excel.png</file>
+    <file>icons/grupo.png</file>
+    <file>icons/lista.png</file>
+    <file>icons/menu.png</file>
+    <file>icons/pdf.png</file>
+    <file>icons/salud.png</file>
+    <file>icons/search.png</file>
+  </qresource>
+</RCC>

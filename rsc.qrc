@@ -1,0 +1,12 @@
+<RCC>
+  <qresource>
+    <file>Iconos/casa.png</file>
+    <file>Iconos/excel.png</file>
+    <file>Iconos/grupo.png</file>
+    <file>Iconos/lista.png</file>
+    <file>Iconos/menu.png</file>
+    <file>Iconos/pdf.png</file>
+    <file>Iconos/salud.png</file>
+    <file>Iconos/search.png</file>
+  </qresource>
+</RCC>
